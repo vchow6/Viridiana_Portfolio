@@ -24,3 +24,7 @@ Viridiana's Data Analytics Portfolio
 * Data visualization using matplotlib in Python to conclude handwashing decreased women's death during child birth
 
 ![image](https://github.com/vchow6/Dr.-Semmelweis-and-the-Discovery-of-Handwashing/blob/main/Handwashing_graph.png)
+
+## [Project 4: Exploring NYC Public Schools SAT Test Scores](https://github.com/vchow6/NYC-Public-School-Test-Scores-Python-SQL)
+
+* Using Python ans SQL, perform exploratory data analysis
